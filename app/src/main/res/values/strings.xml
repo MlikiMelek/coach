@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My ApplicationXXX</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hi im Sam!</string>
+    <string name="slide_1_desc">Im your new friend !</string>
+
+    <string name="slide_2_title">Health</string>
+    <string name="slide_2_desc">im gonna help you to make your health beter!</string>
+
+    <string name="slide_3_title">Social live</string>
+    <string name="slide_3_desc">im your advisor in your live!</string>
+
+    <string name="slide_4_title">Motivation</string>
+    <string name="slide_4_desc">i will push forward to make your dream true!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
+
